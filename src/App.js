@@ -84,7 +84,7 @@ const mapaElementos = cubos.map(mapCubos);
 function App() {
   return (
     <div>
-      <h1 className='header'>Todos los sitios en uno</h1>
+      <h1 className='header'>Todos los sitios en uno1</h1>
     <div className="App">
       
         {mapaElementos}
