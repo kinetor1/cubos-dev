@@ -1,0 +1,10 @@
+.card{
+    overflow: hidden;
+    box-shadow: 0 2px 20px lightblue;
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    cursor: pointer;
+    transition: transform 200ms ease-in;
+}
